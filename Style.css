@@ -1,0 +1,10 @@
+header{
+    background-color: skyblue;
+}
+section h2 {
+    background-color: skyblue;
+}
+.btn-custom {
+    background-color: #74c0e9; /* Color verde personalizado */
+    color: white; /* Color del texto */
+}
